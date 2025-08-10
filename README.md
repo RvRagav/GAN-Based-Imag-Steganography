@@ -1,1 +1,1 @@
-# GAN-Based-Imag-Steganography
+# GAN-Based-Image-Steganography
